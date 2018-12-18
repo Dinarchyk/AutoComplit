@@ -1,0 +1,7 @@
+C:\Users\Динар\source\repos\черновик\черновик\obj\Debug\черновик.csprojResolveAssemblyReference.cache
+C:\Users\Динар\source\repos\черновик\черновик\obj\Debug\черновик.csproj.CoreCompileInputs.cache
+C:\Users\Динар\source\repos\черновик\черновик\bin\Debug\черновик.exe.config
+C:\Users\Динар\source\repos\черновик\черновик\bin\Debug\черновик.exe
+C:\Users\Динар\source\repos\черновик\черновик\bin\Debug\черновик.pdb
+C:\Users\Динар\source\repos\черновик\черновик\obj\Debug\черновик.exe
+C:\Users\Динар\source\repos\черновик\черновик\obj\Debug\черновик.pdb
